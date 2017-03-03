@@ -27,6 +27,7 @@ c Digitalen Assisten {
                             1.Hoe laat is het
                             2.welke dag is het vandaag.
                             3.wat is de hoofdstad van nederland
+                            4.En nog veel meer er word nog een lijst toegevoegd met alle commands.
                             
  
 }
