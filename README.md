@@ -1,4 +1,4 @@
-# bilalconsole
+# ConsoleB
 Dit is een programma gemaakt in python.Wat een rekenmachine bevat en een quiz en een digitalen assistent.De applicatie blijft zich steeds vernieuwen.
 
 Als je de project hebt geopent dan krijg je een scherm met type je gebruikersnaam je kan daar je gebruikersnaam kiezen en dan een wachtwoord. Druk je op enter dan krijg je een schermpje tezien met de mogelijkheden wat je kan doen.
